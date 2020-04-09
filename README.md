@@ -1,7 +1,7 @@
 # OAuth Demo by Clyde Balaman
 
 ## Environment
-- [ ] Part 1: Setting up NodeJS environment
+- [/] Part 1: Setting up NodeJS environment
 - [ ] Part 2: Authentication Routes
 - [ ] Part 3: Passport Configuration
 - [ ] Part 4: PostgreSQL Store and Retrieve
