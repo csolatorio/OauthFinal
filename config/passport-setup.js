@@ -29,6 +29,7 @@ passport.use(
         // check if user already exists in our database
         console.log('##########################');
         console.log(profile);
+
         
         // const sql1 = `select count(*) as result from "oauth".user where id=${profile.id}`;
         // User.query(sql1,(err,res)=>{
